@@ -1,0 +1,6 @@
+# Editor directories and files
+.idea
+*.pyc
+venv/
+__pycache__
+images/
